@@ -3,6 +3,9 @@
   "private": false,
   "version": "0.0.0",
   "type": "module",
+  "author": "codemode365 (Pabin)",
+  "description": "freeCodeCamp frontend libraries certification challenge",
+  "keywords": ["freeCodeCamp","certification","frontend","bootstrap"],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -10,7 +13,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
